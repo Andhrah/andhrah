@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I'm a passion-driven and highly motivated software developer with 6+ years of overall experience in participating in all phase of software development. Adept at cutting edge technologies like JavaScript (NodeJS, ReactJS and React-Native), Flutter, Elixir (Phoenix) and Solidity (EthersJs). I’m proficient at parallel execution, networking, consensus protocols and smart contract development. I possess strong soft skill in problem solving, critical thinking, attention to details and positive attitude in light of challenging situations. I exhibit exemplary work ethic and willingness to learn processes and techniques fast which enhance business and team efforts. I strive to make a difference with each line of code.
+
 <!--
 **Andhrah/andhrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I am a passion-driven and highly motivated software developer with 6+ years of overall experience in participating in all phase of software development. Adept at cutting edge technologies like JavaScript (NodeJS, ReactJS and React-Native), Flutter, Elixir (Phoenix) and Solidity (EthersJs). I’m proficient at parallel execution, networking, consensus protocols and smart contract development. I possess strong soft skill in problem solving, critical thinking, attention to details and positive attitude in light of challenging situations. I exhibit exemplary work ethic and willingness to learn processes and techniques fast which enhance business and team efforts. I strive to make a difference with each line of code.
 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

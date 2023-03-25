@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm a passion-driven and highly motivated software developer with 7 years of overall experience in participating in all phase of software development. Adept at cutting edge technologies like JavaScript (NodeJS, ReactJS and React-Native), Flutter, Elixir (Phoenix) and Solidity (EthersJs). I’m proficient at parallel execution, networking, consensus protocols and smart contract development. I possess strong soft skill in problem solving, critical thinking, attention to details and positive attitude in light of challenging situations. I exhibit exemplary work ethic and willingness to learn processes and techniques fast which enhance business and team efforts. I strive to make a difference with each line of code.
+- 🔭 As a highly motivated and passionate software developer with 6+ years of experience, I have participated in all phases of software development. My expertise includes cutting-edge technologies like JavaScript (NodeJS, ReactJS, and React-Native), Elixir (Phoenix), and Solidity (EthersJs). I excel in parallel execution, networking, consensus protocols, and smart contract development. With strong soft skills in problem-solving, critical thinking, attention to detail, and a positive attitude, I exhibit an exemplary work ethic and willingness to learn processes and techniques quickly to enhance business and team efforts. My goal is to make a difference with each line of code.
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhrah)](https://github.com/anuraghazra/github-readme-stats)
 
